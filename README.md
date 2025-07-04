@@ -9,9 +9,9 @@ A console-based quiz application built using Java. The app allows users to answe
 5. Object-oriented structure with clean separation of logic
 
 🛠️ Tech Stack
-Language: Java
-Tools: Console, JDK 8+
-Concepts Used:
+1. Language: Java
+2. Tools: Console, JDK 8+
+3. Concepts Used:
     Object-Oriented Programming
     Java Threads & Timer
     Control flow and user input handling
